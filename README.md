@@ -13,3 +13,5 @@ Repositório como prática do curso Serviços Cloud com foco em IA.
  - Language Studio
 
 ### Processo Utilizado
+1. Realizada busca na intenet sobre reclamaçoes / elogios de empresas que prestam serviços e possuem canal de atendimento on-line,e selecionada, aleatoriamente, uma amostra de 15 acionamentos.
+2.  
